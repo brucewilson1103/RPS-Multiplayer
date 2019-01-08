@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  margin:0;
+  color: wheat;
+  background-image: url("prs.png");
+}
+#directions-text{
+color: white;
+}
+
+.card-body{
+    background-color: rgb(6, 36, 37);
+  
+}
+.card{
+  width: 30%;
+  margin-left: 20px;
+  float;
+}
