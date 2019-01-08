@@ -1,6 +1,6 @@
  // Initialize Firebase
  var config = {
-   apiKey: "",
+   apiKey: "AIzaSyCR3fGoUlWoWUokNdozkhrKvlrBfOCNBF8",
    authDomain: "rock-paper-scissors-a9000.firebaseapp.com",
    databaseURL: "https://rock-paper-scissors-a9000.firebaseio.com",
    projectId: "rock-paper-scissors-a9000",
